@@ -1,0 +1,30 @@
+#wait-screem{
+    height: 0vh;
+    width: 0vw;
+}
+
+#confirm-screem{
+    background-color: #0f0a18e1;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex:2;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+    
+  }
+
+.check{
+    color:#34CB79;
+    width: 40px;
+    height: 40px;
+}
+
+#confirm-screem h1{
+    
+    color: white;
+}
+
